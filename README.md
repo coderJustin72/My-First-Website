@@ -1,2 +1,2 @@
 # My-First-Website
-this is my first website 
+The programing language used are HTML,CSS and Java script 
